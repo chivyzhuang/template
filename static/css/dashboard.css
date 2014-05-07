@@ -141,6 +141,11 @@ body {
   width: 30%;
 }
 
+.bug-info-line .center {
+  border-left: 1px #eee solid;
+  border-right: 1px #eee solid;
+}
+
 .main-data {
   font-weight: bold;
   font-size: 16px;
@@ -167,11 +172,6 @@ body {
 
 .bug-info li > p{
   margin-bottom: 0px;
-}
-
-.bug-info .center {
-  border-left: 1px #eee solid;
-  border-right: 1px #eee solid;
 }
 
 
