@@ -173,3 +173,14 @@ body {
   border-left: 1px #eee solid;
   border-right: 1px #eee solid;
 }
+
+
+
+/*
+* password
+*
+*/
+
+.form-control {
+  max-width: 250px;
+}
